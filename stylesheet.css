@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+}
+
+.logo{
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+
+.content{
+    display: grid;
+    margin-top: 1rem;
+    background-color: wheat;
+    padding: 2rem;
+    width: 40rem;
+    height: 25rem;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+
+.german{
+    display: grid;
+    align-items: center;
+    margin-top: 2rem;
+    border: dotted black 4px;
+    border-radius: 15px;
+
+}
+
+.english{
+    display: grid;
+    align-items: center;
+    margin-top: 2rem;
+    border: dotted black 4px;
+    border-radius: 15px;
+
+}
+
+.btn{
+    font-size:2rem;
+    width: 25rem;
+    margin-top: 2rem;
+    margin-left: 7.5rem;
+    border-radius: 15px;
+}
+
+.btn:hover{
+    background-color: rgb(255, 253, 253);
+}
+
+.footer{
+    margin-top: 2rem;
+    font-size: 1.6rem;
+}
