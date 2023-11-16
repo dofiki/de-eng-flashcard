@@ -1,2 +1,2 @@
-German and English words flashcard.
-live demo: https://dofiki.github.io/de_eng_flashcard/
+German and English words flashcard.<br>
+live demo: https://dofiki.github.io/de-eng-flashcard/
